@@ -1,0 +1,3 @@
+rootProject.name = 'livelist_5331'
+
+include ':app'
